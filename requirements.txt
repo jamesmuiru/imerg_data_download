@@ -1,0 +1,7 @@
+earthaccess
+h5py
+numpy
+pandas
+xarray
+zarr<3
+dask
