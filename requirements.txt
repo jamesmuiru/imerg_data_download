@@ -5,3 +5,6 @@ pandas
 xarray
 zarr<3
 dask
+tqdm
+psutil
+numcodecs
