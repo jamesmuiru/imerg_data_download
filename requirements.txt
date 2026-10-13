@@ -3,8 +3,8 @@ h5py
 numpy
 pandas
 xarray
-zarr<3
-dask
+zarr>=2.16,<3
+dask[array]
 tqdm
 psutil
 numcodecs
